@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=20F74F&multiline=true&width=435&height=100&lines=Samir+Al-Khouri;CS+Student+%7C+%40Wayne+State+University;AI+%7C+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=20F74F&multiline=true&width=450&height=85&lines=Samir+Al-Khouri;CS+Student+%7C+%40+Wayne+State+University;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
